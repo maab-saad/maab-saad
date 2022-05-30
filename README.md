@@ -1,7 +1,6 @@
 - 👋 Hi, I’m maab-saad
-- 👀 I’m interested in reading books,watching youtube and traviling
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on python coding
+- 💞️ I’m looking to collaborate on python coding projects and SQL small projects
 - 📫 How to reach me maabsaad@gmail.com
 - that's my linkedin profile https://www.linkedin.com/in/maab-saad-00648422b/
 <!---
